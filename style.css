@@ -1,0 +1,43 @@
+.text-center{
+text-align: center;
+background-color: gray;
+color:white;
+font-family: 'Times New Roman', Times, serif;
+font-size:24px;
+}
+
+hr{
+ height: 24px;
+ width: 24px;
+ background-color:gray;
+ color:gray;
+ 
+}
+
+.wrapper{
+width:400px;
+margin:auto
+}
+
+.btn{
+display: inline;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: center;
+text-decoration: none;
+margin:20px;
+padding: 10px 14px;
+border-radius: 8px;
+}
+
+.btn-git{
+background-color: gray;
+color:white;
+border: 5px solid gray;
+}
+
+.btn-linked{
+background-color: gray;
+color: white;
+border:5px solid gray;
+}

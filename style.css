@@ -44,7 +44,7 @@ position: relative;
 
 .btn-git:hover{
     background-color: blue;
-    border-raduis:15px;
+    border-radius: 15px;
 }
 
 .btn-git:active{
@@ -60,7 +60,7 @@ position: relative;
 
 .btn-linked:hover{
     background-color: blue;
- border-raduis: 15px;
+    border-radius: 15px;
 }
 
 .btn-linked:active{

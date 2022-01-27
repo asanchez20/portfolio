@@ -39,10 +39,28 @@ border-radius: 8px;
 background-color: gray;
 color:white;
 border: 5px solid gray;
+position: relative;
+}
+
+.btn-git:hover{
+    background-color: blue;
+}
+
+.btn-git:active{
+    top: 5px;
 }
 
 .btn-linked{
 background-color: gray;
 color: white;
 border:5px solid gray;
+position: relative;
+}
+
+.btn-linked:hover{
+    background-color: blue;
+}
+
+.btn-linked:active{
+    top: 5px;
 }

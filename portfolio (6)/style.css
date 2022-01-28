@@ -1,0 +1,75 @@
+.text-center{
+text-align: center;
+background-color: gray;
+color:white;
+font-family: 'Times New Roman', Times, serif;
+font-size:24px;
+height: 100px;
+width: 1200px;
+border: solid black 24px;
+border-radius: 40px;
+margin:50px;
+}
+
+hr{
+ height: 24px;
+ width: 24px;
+ background-color:gray;
+ color:gray;
+ 
+}
+
+.wrapper{
+width:400px;
+margin:auto
+}
+
+.btn{
+display: inline;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: center;
+text-decoration: none;
+margin:20px;
+padding: 10px 14px;
+border-radius: 8px;
+}
+
+.btn-git{
+background-color: gray;
+color:white;
+border: 5px solid gray;
+position: relative;
+}
+
+.btn-git:hover{
+    background-color: blue;
+    border-radius: 15px;
+}
+
+.btn-git:active{
+    top: 5px;
+}
+
+.btn-linked{
+background-color: gray;
+color: white;
+border:5px solid gray;
+position: relative;
+}
+
+.btn-linked:hover{
+    background-color: blue;
+    border-radius: 15px;
+}
+
+.btn-linked:active{
+    top: 5px;
+}
+
+img{
+    border-radius: 15px;
+    Height: 400px;
+    width: 700px;
+
+}

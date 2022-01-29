@@ -37,9 +37,9 @@ border-radius: 8px;
 }
 /* style for the github button*/
 .btn-git{
-background-color: gray;
+background-color: red;
 color:white;
-border: 5px solid gray;
+border: 5px solid red;
 position: relative;
 }
 
@@ -53,9 +53,9 @@ position: relative;
 }
 /* Style for the linkedin button*/
 .btn-linked{
-background-color: gray;
+background-color: red;
 color: white;
-border:5px solid gray;
+border:5px solid red;
 position: relative;
 }
 /* When the user hovers over the button it will turn blue */

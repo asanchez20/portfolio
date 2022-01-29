@@ -1,3 +1,4 @@
+/* style for all the main text*/
 .text-center{
 text-align: center;
 background-color: gray;
@@ -10,7 +11,7 @@ border: solid black 24px;
 border-radius: 40px;
 margin:50px;
 }
-
+/* Style for the page breaks between the words.*/
 hr{
  height: 24px;
  width: 24px;
@@ -34,7 +35,7 @@ margin:20px;
 padding: 10px 14px;
 border-radius: 8px;
 }
-
+/* style for the github button*/
 .btn-git{
 background-color: gray;
 color:white;
@@ -50,26 +51,26 @@ position: relative;
 .btn-git:active{
     top: 5px;
 }
-
+/* Style for the linkedin button*/
 .btn-linked{
 background-color: gray;
 color: white;
 border:5px solid gray;
 position: relative;
 }
-
+/* When the user hovers over the button it will turn blue */
 .btn-linked:hover{
     background-color: blue;
     border-radius: 15px;
 }
-
+/* When the user click the link it goes down 5px*/
 .btn-linked:active{
     top: 5px;
 }
-
+/* putting some styles to my image*/
 img{
     border-radius: 15px;
     Height: 400px;
     width: 700px;
-
+    
 }
